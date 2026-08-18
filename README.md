@@ -26,7 +26,7 @@ An intelligent conversational agent built to assist students by providing accura
    ```
    pip install pandas numpy sentence-transformers transformers scikit-learn
    ```
-3. Ensure your custom `knowledge_base.csv` is populated with `question` and `answer` columns and located in the root directory.
+3. Ensure your custom `spam.csv` is populated with `question` and `answer` columns and located in the root directory.
 4. Run the application
    ```
    python main.py
